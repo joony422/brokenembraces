@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<main>
+	<defaultScreenImageURL/>
+	<videos>
+		<video>
+			<videoURL><![CDATA[video/comingsoon.flv]]></videoURL>
+			<hqVideoURL/>
+			<title><![CDATA[Coming Soon]]></title>
+		</video>
+	</videos>
+</main>
